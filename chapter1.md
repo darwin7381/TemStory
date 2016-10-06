@@ -1,3 +1,4 @@
-# First Chapter
+# 起源
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+>科技打破了距離的限制，但真的讓我們更近了嗎？
+即使發生在身邊的事，你知道嗎
