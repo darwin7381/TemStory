@@ -6,5 +6,5 @@
 * [動人的餘溫](RemainTemp.md)
 * [你的那些故事](YourOwnStory.md)
 * [Prepare](prepare.md)
-* [ExploreDepth](DeepExplore.md)
+* [全新的方式探索世界](DeepExplore.md)
 
