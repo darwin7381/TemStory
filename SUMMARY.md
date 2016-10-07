@@ -7,5 +7,5 @@
 * [你的那些故事](YourOwnStory.md)
 * [全新的方式探索世界](DeepExplore.md)
 * [Prepare](prepare.md)
-* 燦爛的艷陽下
+* [燦爛的艷陽下](can_lan_de_yan_yang_xia.md)
 
