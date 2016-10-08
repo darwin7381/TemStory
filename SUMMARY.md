@@ -8,4 +8,5 @@
 * [燦爛的艷陽下](Sunshine.md)
 * [全新的方式探索世界](DeepExplore.md)
 * [Prepare](prepare.md)
+* Industry
 
