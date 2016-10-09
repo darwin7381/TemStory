@@ -8,5 +8,5 @@
 * [燦爛的艷陽下](Sunshine.md)
 * [全新的方式探索世界](DeepExplore.md)
 * [Prepare](prepare.md)
-* [連結土地價值](SmallIndustry.md)
+* [一些小筆記](SmallIndustry.md)
 
