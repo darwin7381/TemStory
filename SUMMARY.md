@@ -9,4 +9,5 @@
 * [全新的方式探索世界](DeepExplore.md)
 * [Prepare](prepare.md)
 * [一些小筆記概念](SmallIndustry.md)
+* 各個小故事組成一個時代的大故事
 
