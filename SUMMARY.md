@@ -3,7 +3,7 @@
 * [溫度的故事](README.md)
 * [起源](chapter1.md)
    * [直接幫助身邊需要的人](warmmd.md)
-   * [留著那些該被記住的](Tradition.md)
+   * [留著那些該被記住的](traditionmd.md)
    * [價值得來不易，該被記住](Value)
 * [寒冷的角落](Cold_Corner.md)
 * [餘溫](RemainTemp.md)
